@@ -3,6 +3,10 @@
 <!--
 **Shubhamm33/shubhamm33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+TechStack:
+https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
